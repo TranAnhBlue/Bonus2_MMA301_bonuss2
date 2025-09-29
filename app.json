@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Bonus1",
-    "slug": "Bonus1",
+    "name": "bonus1",
+    "slug": "bonus1",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
